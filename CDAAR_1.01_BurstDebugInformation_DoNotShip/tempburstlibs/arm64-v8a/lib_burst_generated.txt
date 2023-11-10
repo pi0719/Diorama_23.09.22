@@ -162,13 +162,13 @@ Library: lib_burst_generated
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\ARFoundationRemote.RuntimeEditor.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\ARFoundationRemote.Singleton.dll
+--root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\ARFoundationRemote.Runtime.BugReports.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.XR.Management.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
---root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
 --root-assembly=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\Unity.Subsystem.Registration.dll
 --assembly-folder=D:\UnityProject\Diorama_23.09.22\Temp\StagingArea\Data\Managed\
