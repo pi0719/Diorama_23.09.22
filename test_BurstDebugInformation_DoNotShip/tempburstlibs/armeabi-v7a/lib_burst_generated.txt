@@ -127,6 +127,7 @@ Library: lib_burst_generated
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ARFOUNDATION_4_0_OR_NEWER
 --compilation-defines=ARFOUNDATION_4_0_2_OR_NEWER
+--compilation-defines=ARKIT_INSTALLED
 --compilation-defines=ARFOUNDATION_4_1_OR_NEWER
 --compilation-defines=UGUI_INSTALLED
 --compilation-defines=XR_MANAGEMENT_4_0_1_OR_NEWER
