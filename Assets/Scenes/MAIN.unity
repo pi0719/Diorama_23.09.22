@@ -4063,7 +4063,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 500.61948
+      value: 500.5
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -4751,7 +4751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 500.61948
+      value: 500.5
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -7175,7 +7175,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 199.61948
+      value: 199.5
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -9003,7 +9003,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 199.61948
+      value: 199.5
       objectReference: {fileID: 0}
     - target: {fileID: 3498891396911265722, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -9024,6 +9024,19 @@ PrefabInstance:
     - target: {fileID: 3498891396911265723, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
       propertyPath: m_Name
       value: image1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3498891397342649674, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
+      propertyPath: m_Text
+      value: "\uB098\uB9CC\uC758 \uC790\uC804\uAC70\uB97C \uCEE4\uC2A4\uD140\uD558\uACE0\r\n\uBC14\uC774\uB809\uD2B8\uB85C
+        \uAC04\uD3B8\uD558\uAC8C \uAD6C\uB9E4\r\uD574\uBCF4\uC138\uC694!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3498891397411945991, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f955e067020b0d3438284c6171ce240f, type: 3}
+    - target: {fileID: 3498891397997723313, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
+      propertyPath: m_Text
+      value: birect
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8bb6d3445d146749922ba5036e8c4d0, type: 3}
